@@ -4,18 +4,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 27353035))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
+API_ID = int(getenv("API_ID", 27013344))
+API_HASH = getenv("API_HASH", "be5f160b65f07128459b4289c6e286ad")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", 5350929381))
+OWNER_ID = int(getenv("OWNER_ID", 7062539103))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Nexa_Verse")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "DadEyeBotz")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Dev_Arora_0981")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/Riseeuniverse")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/RiseUniverseNetwork")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@Rise_Ownerr")
 
 # Random Start Images
 IMG = [
-    "https://te.legra.ph/file/5bf629d10afd4af953585.jpg",
+    "https://telegra.ph/file/c2ff050b35f2a1aeecc09.jpg",
     "https://te.legra.ph/file/7a321b99fe99d9d8b5117.jpg",
     "https://te.legra.ph/file/c482a7e55b459ffe07502.jpg",
     "https://telegra.ph//file/0879fbdb307005c1fa8ab.jpg",
@@ -62,7 +62,7 @@ IMG = [
 STICKER = [
     "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ",
     "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ",
-    "CAACAgQAAxkBAALRjWNZXUvETcfHR2Yi9ftTQLLP2uD8AAIVDAAC1SMQU-QrCHEcbz8rKgQ",
+    "https://t.me/addstickers/a_7062539103_by_Toga_Robot",
 ]
 
 
