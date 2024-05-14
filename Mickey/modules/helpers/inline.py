@@ -6,34 +6,34 @@ from Mickey import MickeyBot
 
 DEV_OP = [
     [
-        InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", user_id=OWNER),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="⚔Oᴡɴᴇʀ⚔", user_id=7062539103),
+        InlineKeyboardButton(text="⚡Sᴜᴘᴘᴏʀᴛ⚡", url=f"https://t.me/{Riseeuniverse}"),
     ],
     [
         InlineKeyboardButton(
-            text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
+            text="😘Bᴀʙʏ ᴀᴅᴅ ᴍᴇ NA😍😍",
             url=f"https://t.me/{MickeyBot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀", callback_data="HELP"),
+        InlineKeyboardButton(text="💸Hᴇʟᴘ😎", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
-        InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", callback_data="ABOUT"),
+        InlineKeyboardButton(text="❄️ Rise sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
+        InlineKeyboardButton(text="🔎 Rise ᴀʙᴏᴜᴛ ☁🔎", callback_data="ABOUT"),
     ],
 ]
 
 PNG_BTN = [
     [
         InlineKeyboardButton(
-            text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
+            text="😘Bᴀʙʏ ᴀᴅᴅ ᴍᴇ NA😍😍",
             url=f"https://t.me/{MickeyBot.username}?startgroup=true",
         ),
     ],
     [
         InlineKeyboardButton(
-            text="✨ ᴄʟᴏsᴇ ✨",
+            text="✨Rise ᴄʟᴏsᴇ ✨",
             callback_data="CLOSE",
         ),
     ],
@@ -42,26 +42,26 @@ PNG_BTN = [
 
 BACK = [
     [
-        InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
+        InlineKeyboardButton(text="✨Rise ʙᴀᴄᴋ ✨", callback_data="BACK"),
     ],
 ]
 
 
 HELP_BTN = [
     [
-        InlineKeyboardButton(text="🐳 ᴄʜᴀᴛʙᴏᴛ 🐳", callback_data="CHATBOT_CMD"),
-        InlineKeyboardButton(text="🎄 ᴛᴏᴏʟs 🎄", callback_data="TOOLS_DATA"),
+        InlineKeyboardButton(text="😎RISECHATBOT😎", callback_data="CHATBOT_CMD"),
+        InlineKeyboardButton(text="⚡RISETOOLS⚡", callback_data="TOOLS_DATA"),
     ],
     [
-        InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
-        InlineKeyboardButton(text="❄️ ᴄʟᴏsᴇ ❄️", callback_data="CLOSE"),
+        InlineKeyboardButton(text="✨Rise ʙᴀᴄᴋ ✨", callback_data="BACK"),
+        InlineKeyboardButton(text="❄️Rise ᴄʟᴏsᴇ ❄️", callback_data="CLOSE"),
     ],
 ]
 
 
 CLOSE_BTN = [
     [
-        InlineKeyboardButton(text="❄️ ᴄʟᴏsᴇ ❄️", callback_data="CLOSE"),
+        InlineKeyboardButton(text="❄️Rise ᴄʟᴏsᴇ ❄️", callback_data="CLOSE"),
     ],
 ]
 
@@ -98,8 +98,8 @@ CHATBOT_BACK = [
 
 HELP_START = [
     [
-        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
-        InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
+        InlineKeyboardButton(text="💸Hᴇʟᴘ😎", callback_data="HELP"),
+        InlineKeyboardButton(text="🐳Rise ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
     ],
 ]
 
@@ -116,15 +116,15 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="🎄 sᴜᴘᴘᴏʀᴛ 🎄", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="🎄 sᴜᴘᴘᴏʀᴛ 🎄", url=f"https://t.me/{Riseeuniverse}"),
         InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="🍾 ᴏᴡɴᴇʀ 🍾", user_id=OWNER),
+        InlineKeyboardButton(text="✨KING😎", user_id=7062539103),
         InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="🐳 ᴜᴘᴅᴀᴛᴇs 🐳", url=f"https://t.me/{UPDATE_CHNL}"),
+        InlineKeyboardButton(text="✨QUEEN😘", url=f"https://t.me/{soothing_zaraa}"),
         InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
     ],
 ]
