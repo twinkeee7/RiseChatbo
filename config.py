@@ -61,7 +61,7 @@ IMG = [
 # Random Stickers
 STICKER = [
     "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ",
-    "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ",
+    "https://t.me/addstickers/safone_tarahume_Pika_Ft_Texts_by_ShizukiRobot",
     "https://t.me/addstickers/a_7062539103_by_Toga_Robot",
 ]
 
