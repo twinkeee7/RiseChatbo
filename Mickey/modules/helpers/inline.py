@@ -12,7 +12,7 @@ DEV_OP = [
     [
         InlineKeyboardButton(
             text="😘Bᴀʙʏ ᴀᴅᴅ ᴍᴇ NA😍😍",
-            url=f"https://t.me/{MickeyBot.username}?startgroup=true",
+            url=f"https://t.me/{MickeyBot.AdvancedAichat_bot}?startgroup=true",
         ),
     ],
     [
@@ -28,7 +28,7 @@ PNG_BTN = [
     [
         InlineKeyboardButton(
             text="😘Bᴀʙʏ ᴀᴅᴅ ᴍᴇ NA😍😍",
-            url=f"https://t.me/{MickeyBot.username}?startgroup=true",
+            url=f"https://t.me/{MickeyBot.AdvancedAichat_bot}?startgroup=true",
         ),
     ],
     [
@@ -107,7 +107,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="🚀 ʜᴇʟᴘ 🚀", url=f"https://t.me/{MickeyBot.username}?start=help"
+            text="🚀 ʜᴇʟᴘ 🚀", url=f"https://t.me/{MickeyBot.}?start=help"
         ),
         InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
     ],
